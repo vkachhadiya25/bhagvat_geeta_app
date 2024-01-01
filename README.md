@@ -14,13 +14,20 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-01-01 at 10-portrait](https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/3d0c54d2-881c-42d9-a171-31317057459e)
+![WhatsApp Image 2024-01-01 at 10-portrait](https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/b3736e32-aebc-40e8-9c3f-c692fbe06d18)
+![WhatsApp Image 2024-01-01 at 10-portrait](https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/befb9907-fd35-4480-bef6-0329b369b166)
+![WhatsApp Image 2024-01-01 at 10-portrait](https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/aa641872-9123-47bc-97da-109028cc969a)
+![WhatsApp Image 2024-01-01 at 10-portrait](https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/1412ce81-ad39-4517-9ef1-1dff5ec4c39f)
+![WhatsApp Image 2024-01-01 at 10-portrait](https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/f7f828f6-5ee1-428d-ad9a-c1617da7a56d)
+![WhatsApp Image 2024-01-01 at 10-portrait](https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/10d70b4e-6134-4474-9c44-26e69e9f4a3f)
 
 <p>
-<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/2aaff3fc-04f7-4b78-ab49-d61d645bd037" ,height = '400',width :'200'>
-<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/8cb6c270-bd36-4ee8-978d-a98227731852" ,height = '400',width :'200' >
-<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/91a010fe-d1ab-4b26-9037-c3af035c8014"  ,height = '400',width :'200'>
-<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/04c1eb3d-bb48-4d22-994d-452ef8c632f4" ,height = '400',width :'200' >
-<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/a2ed7de0-93e7-45cc-9084-ba373a4db9c2" ,height = '400',width :'200' >
-<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/94b6aab2-cf3d-446d-92c5-c7bf56aef07b" ,height = '400',width :'200' >
-<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/c77f4c21-ecc5-4a8c-9ff2-60622d5c9cdb" ,height = '400',width :'200' >
+<src img =  "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/3d0c54d2-881c-42d9-a171-31317057459e",height = '400',width :'200'>
+<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/b3736e32-aebc-40e8-9c3f-c692fbe06d18" ,height = '400',width :'200'>
+<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/befb9907-fd35-4480-bef6-0329b369b166" ,height = '400',width :'200'>
+<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/aa641872-9123-47bc-97da-109028cc969a" ,height = '400',width :'200'>
+<src img = "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/1412ce81-ad39-4517-9ef1-1dff5ec4c39f" ,height = '400',width :'200'>
+<src img =  "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/f7f828f6-5ee1-428d-ad9a-c1617da7a56d",height = '400',width :'200'>
+<src img =  "https://github.com/vkachhadiya25/bhagvat_geeta_app/assets/131163362/10d70b4e-6134-4474-9c44-26e69e9f4a3f",height = '400',width :'200'>  
 </p>
